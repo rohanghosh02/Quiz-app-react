@@ -133,3 +133,13 @@ button svg {
 
  
 }
+
+
+.reset-button{
+padding: 0 5px;
+
+}
+
+.prev-score{
+  font-size: 0.7rem;
+}
